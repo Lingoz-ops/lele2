@@ -1,5 +1,7 @@
 /* This is an almost-complete translation of https://github.com/haarismemon/oware/ from Java to C#
 */
+
+
 namespace Oware {
     public class Seed {
         private bool isCaptured = false;

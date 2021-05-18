@@ -3,6 +3,7 @@
 using System;
 using System.Collections.Generic;
 
+
 namespace Oware {
     public class House : IEquatable<House> {
         private List<Seed> seedsInHouse;
